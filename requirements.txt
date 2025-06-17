@@ -2,5 +2,4 @@ streamlit
 numpy==1.23.5
 pillow
 cryptography
-pyswarm
-typing_extensions
+git+https://github.com/tisimst/pyswarm.git
